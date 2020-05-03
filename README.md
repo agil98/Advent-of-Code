@@ -1,3 +1,3 @@
-# Advent-of-Code-2019
+# Advent of Code
 
-My solutions to [Advent of Code 2019](https://adventofcode.com/2019/about)
+Currently working on writing solutions for [Advent of Code 2019](https://adventofcode.com/2019/about)
